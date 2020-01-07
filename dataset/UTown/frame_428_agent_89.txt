@@ -1,0 +1,16 @@
+89 428 0 0 -0.320152299653 -5.20221043936 0 0 pedestrian rear_axle_center
+89 429 0 0 0.164793279239 -5.10814765621 0 0 pedestrian rear_axle_center
+89 430 0 0 0.627388921932 -5.01490179654 0 0 pedestrian rear_axle_center
+89 431 0 0 1.06809016632 -4.91085738422 0 0 pedestrian rear_axle_center
+89 432 0 0 1.48752201661 -4.78680661354 0 0 pedestrian rear_axle_center
+89 433 0 0 1.88647894329 -4.63594934918 0 0 pedestrian rear_axle_center
+89 434 0 0 2.26592488318 -4.45389312626 0 0 pedestrian rear_axle_center
+89 435 0 0 2.62699323939 -4.23865315032 0 0 pedestrian rear_axle_center
+89 436 0 0 2.97098688134 -3.9906522973 0 0 pedestrian rear_axle_center
+89 437 0 0 3.29937814476 -3.71272111356 0 0 pedestrian rear_axle_center
+89 438 0 0 3.61380883166 -3.4100978159 0 0 pedestrian rear_axle_center
+89 439 0 0 3.91609021039 -3.09042829151 0 0 pedestrian rear_axle_center
+89 440 0 0 4.20820301557 -2.763766098 0 0 pedestrian rear_axle_center
+89 441 0 0 4.49229744816 -2.44257246341 0 0 pedestrian rear_axle_center
+89 442 0 0 4.7706931754 -2.14171628619 0 0 pedestrian rear_axle_center
+89 443 0 0 5.04587933083 -1.87847413521 0 0 pedestrian rear_axle_center

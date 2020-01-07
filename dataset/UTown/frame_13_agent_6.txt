@@ -1,0 +1,13 @@
+6 13 0 0 3.05075495281 -4.20442280044 0 0 pedestrian rear_axle_center
+6 14 0 0 3.55617288618 -3.9828581414 0 0 pedestrian rear_axle_center
+6 15 0 0 4.01506571939 -3.76065777306 0 0 pedestrian rear_axle_center
+6 16 0 0 4.44373937887 -3.53370630754 0 0 pedestrian rear_axle_center
+6 17 0 0 4.85519344697 -3.29818367584 0 0 pedestrian rear_axle_center
+6 18 0 0 5.25912116192 -3.05056512779 0 0 pedestrian rear_axle_center
+6 19 0 0 5.66190941787 -2.78762123213 0 0 pedestrian rear_axle_center
+6 20 0 0 6.06663876487 -2.50641787644 0 0 pedestrian rear_axle_center
+6 21 0 0 6.47308340887 -2.20431626719 0 0 pedestrian rear_axle_center
+6 22 0 0 6.87771121173 -1.87897292971 0 0 pedestrian rear_axle_center
+6 23 0 0 7.2736836912 -1.52833970821 0 0 pedestrian rear_axle_center
+6 24 0 0 7.65085602094 -1.15066376575 0 0 pedestrian rear_axle_center
+6 25 0 0 7.99577703052 -0.744487584273 0 0 pedestrian rear_axle_center

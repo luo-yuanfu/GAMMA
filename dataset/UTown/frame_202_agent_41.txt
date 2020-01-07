@@ -1,0 +1,13 @@
+41 202 0 0 9.54131248365 0.376334588705 0 0 pedestrian rear_axle_center
+41 203 0 0 9.21271365016 -0.220815071812 0 0 pedestrian rear_axle_center
+41 204 0 0 8.80147123937 -0.701428248919 0 0 pedestrian rear_axle_center
+41 205 0 0 8.31670807443 -1.0890701848 0 0 pedestrian rear_axle_center
+41 206 0 0 7.76976037918 -1.40700830082 0 0 pedestrian rear_axle_center
+41 207 0 0 7.17417777818 -1.67821219753 0 0 pedestrian rear_axle_center
+41 208 0 0 6.54572329668 -1.92535365462 0 0 pedestrian rear_axle_center
+41 209 0 0 5.90237336063 -2.17080663099 0 0 pedestrian rear_axle_center
+41 210 0 0 5.26431779671 -2.43664726471 0 0 pedestrian rear_axle_center
+41 211 0 0 4.65395983227 -2.744653873 0 0 pedestrian rear_axle_center
+41 212 0 0 4.09591609538 -3.1163069523 0 0 pedestrian rear_axle_center
+41 213 0 0 3.61701661481 -3.57278917818 0 0 pedestrian rear_axle_center
+41 214 0 0 3.24630482004 -4.13498540542 0 0 pedestrian rear_axle_center

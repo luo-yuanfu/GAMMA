@@ -1,0 +1,5 @@
+22 100 0 0 5.92517303034 3.92667531884 0 0 pedestrian rear_axle_center
+22 101 0 0 6.46631572649 4.29763711008 0 0 pedestrian rear_axle_center
+22 102 0 0 6.91180740442 4.67649782547 0 0 pedestrian rear_axle_center
+22 103 0 0 7.40639004993 5.09341652154 0 0 pedestrian rear_axle_center
+22 104 0 0 7.8295394491 5.56200918985 0 0 pedestrian rear_axle_center

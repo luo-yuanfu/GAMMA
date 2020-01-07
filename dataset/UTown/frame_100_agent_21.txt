@@ -1,0 +1,3 @@
+21 100 0 0 6.85592383204 3.16803230626 0 0 pedestrian rear_axle_center
+21 101 0 0 7.38444677908 3.68632894496 0 0 pedestrian rear_axle_center
+21 102 0 0 7.96014536006 3.632569507 0 0 pedestrian rear_axle_center
