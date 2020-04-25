@@ -848,8 +848,8 @@ namespace RVO {
 		float dist = abs (relativePosition);
 
 
-		float agt_res = 1.0f + 2.5f*res_dec_rate_ - res_dec_rate_ * dist;
-		float other_agt_res = 1.0f + 2.5f*other->res_dec_rate_ - other->res_dec_rate_ * dist;
+		float agt_res = 0.5f + 2.5f*res_dec_rate_ - res_dec_rate_ * dist;
+		float other_agt_res = 0.5f + 2.5f*other->res_dec_rate_ - other->res_dec_rate_ * dist;
 
 		if (agt_res < 0.1f) {
 			agt_res = 0.1f;
