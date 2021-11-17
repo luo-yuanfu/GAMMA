@@ -50,7 +50,7 @@ def divide_trajectories(agent_id):
 
 
 def compute_accuracy(agent_trajectories, agent_id):
-	traj_num = len(agent_trajectories) / 2
+	traj_num = int(len(agent_trajectories) / 2)
 
 	global prediction_frame_count
 
